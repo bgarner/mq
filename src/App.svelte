@@ -16,3 +16,22 @@
 	  <h2>Sorry. Page not found.</h2>
 	</NotFound>
 </Router>
+
+<style global>
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
+
+	.stage{
+	  position: absolute;
+	  top: 0px;
+	  left: 0px;
+	  padding: 0; margin: 0;
+	  width: 100%;
+	  height: 100%;
+	}
+
+  *{
+    font-family: 'Inter', sans-serif;
+  }
+</style>

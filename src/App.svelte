@@ -14,6 +14,7 @@
 	<Route path="/register" component="{Register}" />
 	<NotFound>
 	  <h2>Sorry. Page not found.</h2>
+	  <p><a href="/">Return Home</a></p>
 	</NotFound>
 </Router>
 

@@ -14,7 +14,7 @@
 		<p class="text-2xl mt-4 leading-6 font-medium text-gray-900 text-center">Calgary North Stake</p>
 		<p class="text-2xl mt-4 leading-6 font-medium text-gray-900 text-center">July 21 - 23, 2022</p>
 		<p class="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">
-In the summer of 2022, Young Women and Young Men in the Calgary North Stake will experience first-hand some of the great adventures of living in the times of Nephi, Alma, and Moroni. Everyone will be assigned to a tribe, and together, we will journey in the wilderness, experience visions, follow prophets, and fight battles as we learn how to Come unto Christ.</p>
+In the summer of 2022, Young Women and Young Men of the Calgary North Stake will experience first-hand some of the great adventures of living in the times of Nephi, Alma, and Moroni. Everyone will be assigned to a tribe, and together, we will journey in the wilderness, experience visions, follow prophets, and fight battles as we learn how to Come unto Christ.</p>
 		<p class="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">
 Youth will watch and participate in reenactments of important scenes from the Book of Mormon. Follow-up discussions with tribe leaders will help us understand the scriptures better and apply them to our own lives and situations today.</p>
 		<p class="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">

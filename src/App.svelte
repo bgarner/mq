@@ -1,8 +1,8 @@
 <script>
 	import page from 'page';
-  	import Router from './pager/Router.svelte';
-  	import Route from './pager/Route.svelte';
-  	import NotFound from './pager/NotFound.svelte';
+  	import Router from './router/Router.svelte';
+  	import Route from './router/Route.svelte';
+  	import NotFound from './router/NotFound.svelte';
 
 	import Home from './pages/Home.svelte';
 	import Register from './pages/Register.svelte';
@@ -30,6 +30,10 @@
 	  padding: 0; margin: 0;
 	  width: 100%;
 	  height: 100%;
+	}
+
+	.content {
+		@apply rounded-lg;
 	}
 
   *{

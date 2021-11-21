@@ -2,4 +2,7 @@
 	
 </script>
 
-<p>this is the registration page</p>
+<p>Coming Soon!</p>
+
+
+<style></style>

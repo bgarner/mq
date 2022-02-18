@@ -65,7 +65,7 @@
 			<p><strong>Nephite Fashion Guide for Girls</strong></p>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/WWu8GJuR_2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-			<p><strong>How to make a Nephite costume</strong> <a class="" href="http://weiserquest.org/clothing/how-to-make-a-costume/" target="_blank">http://weiserquest.org/clothing/how-to-make-a-costume/</a></p>
+
 		</div>
 
 		<br style="clear: both;" />

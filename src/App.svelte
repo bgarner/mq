@@ -40,15 +40,32 @@
 	}
 
 	.content {
+	
+	}	
+
+	.content {
 		@apply rounded-lg;
 		@apply clear-left;
 		@apply clear-right;
-		
+		@apply sm:w-full md:w-5/6 lg:w-5/6;
+
+		margin: 0 auto;
+		background-color: #fff;
+		position: relative;
+		top:  -220px;
+		padding: 20px 30px;
+		/*
+		filter:  drop-shadow(-1px -7px 4px #999);
+		*/
 		clear: both;
 	}
 
 	.content p, .content ul, .content li, .content h1, .content h2, .content h3 {
 		@apply text-gray-600;
+	}
+
+	.content p {
+		@apply mt-3 mx-auto text-lg sm:text-xl md:mt-5 md:max-w-3xl
 	}
 
 	.content a{

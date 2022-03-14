@@ -8,11 +8,11 @@
 		<a href="/" class="logo">Moroni's Quest 2022</a>
 		<div class="navigation-elements">
 
-			<a href="">News</a>
+			<!-- <a href="">News</a> -->
 			<a href="/register">Register</a>
-			<a href="#">Schedule</a>
-			<a href="/participants">Participants</a>
-			<a href="">Leaders</a>
+			<!-- <a href="#">Schedule</a> -->
+			<a href="/participants">Participant Info</a>
+			<!-- <a href="">Leaders</a> -->
 		</div>
 	</div>
 </nav>

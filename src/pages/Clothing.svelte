@@ -32,8 +32,9 @@
 
 				<li><strong>Shoes:</strong> Two pair of gym shoes that are comfortable to walk in.  NO flip-flops, sandals, or open-toed shoes.</li>
 
-				<p>Ideas on  PINTEREST -> <a href="https://www.pinterest.com/kimjensen69/moronis-quest/" target="_blank">“Moroni’s Quest Costumes”</a> </p>
+			
 			</ul>
+			<br />
 
 			<h1 class="text-xl tracking-tight font-bold text-gray-900 sm:text-xl md:text-xl lg:text-xl xl:text-xl pt-4">How to Make a Costume:</h1>
 			<p>Costumes can be as simple or as elaborate as you would like.  There are several sources online that you can look at.  Do a search for “Moroni’s Quest” and you will find Pinterest boards, YouTube videos, and Facebook pages.</p>

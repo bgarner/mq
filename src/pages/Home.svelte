@@ -26,6 +26,9 @@
 		<a href="https://www.instagram.com/calgarynorthstakemoronisquest/">Instagram</a><br />
 		<a href="https://www.facebook.com/moronisquest/">Facebook</a>
 		</p>
+
+		<h2 class="text-4xl sm:text-2xl md:text-4xl lg:text-4xl xl:text-4xl tracking-tight font-medium text-gray-900 text-center">What's New</h2>
+		<p><a href="/participants/comereadwithus">Come Read With Us!</a> - Join us as we read the Book of Mormon together before Moroni's Quest. Check back soon, or <a href="https://www.instagram.com/calgarynorthstakemoronisquest/">follow us on Instagram</a>, as we update where we are in our reading.</p>
 	</div>
 
 </div>

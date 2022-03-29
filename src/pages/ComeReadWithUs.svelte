@@ -24,10 +24,19 @@
 			<p>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/edg-0hAM3iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</p>
+
+			<br /><hr />
+
+			<p>1 Nephi Chapter 3 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng">Read Online</a></p>
+			<p>1 Nephi Chapter 4 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/4?lang=eng">Read Online</a></p>
+			<p>1 Nephi Chapter 5 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/5?lang=eng">Read Online</a></p>
+
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/AVzRaLuzJ2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</p>
+
 			<br />
 			<hr />
-
-
 		
 		</div>
 

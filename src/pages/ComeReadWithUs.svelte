@@ -37,6 +37,16 @@
 
 			<br />
 			<hr />
+
+			<p>1 Nephi Chapter 8 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng">Read Online</a></p>
+			<p>1 Nephi Chapter 10 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=eng">Read Online</a></p>
+			<p>1 Nephi Chapter 11 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng">Read Online</a></p>
+
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/IBRiC1slfTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>			
+			</p>
+			<br />
+			<hr />			
 		
 		</div>
 

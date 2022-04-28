@@ -48,6 +48,39 @@
 			<br />
 			<hr />			
 		
+			<p>1 Nephi Chapter 12 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/12?lang=eng">Read Online</a></p>
+			<p>1 Nephi Chapter 13 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=eng">Read Online</a></p>
+			<p>1 Nephi Chapter 14 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng">Read Online</a></p>
+			<br />
+			<hr />			
+
+			<p>1 Nephi Chapter 16 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=eng">Read Online</a></p>
+			<p>1 Nephi Chapter 17 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng">Read Online</a></p>
+			
+			<p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/aZ-6BtQzo4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</p>
+			<p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/Sqtkfn0Fs68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</p>
+			
+			<br />
+			<hr />			
+
+			<p>Mosiah Chapter 2 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng">Read Online</a></p>
+			<p>Mosiah Chapter 3 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=eng">Read Online</a></p>
+			<p>Mosiah Chapter 4 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng">Read Online</a></p>
+			
+			<p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/fZHzsOd_jUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</p>
+			<p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/5yXiV8SEXqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</p>
+			
+			<br />
+			<hr />		
+
 		</div>
 
 		<br style="clear: both;" />

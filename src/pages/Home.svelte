@@ -18,11 +18,13 @@
 
 		<h2 class="text-4xl sm:text-2xl md:text-4xl lg:text-4xl xl:text-4xl tracking-tight font-medium text-gray-900 text-center">What's New</h2>
 
-		<p><img src="/images/devotional.jpg" alt="devotional" /></p>
-
+		<p><img src="/images/fashion.jpg" alt="Fashion Show" /></p>
+		<br />
+		<hr />
 		<p><a href="/participants/comereadwithus">Come Read With Us!</a> - Join us as we read the Book of Mormon together before Moroni's Quest. Check back soon, or <a href="https://www.instagram.com/calgarynorthstakemoronisquest/">follow us on Instagram</a>, as we update where we are in our reading.</p>
 
 		<br />
+		<hr />
 
 		<h2 class="text-4xl sm:text-2xl md:text-4xl lg:text-4xl xl:text-4xl tracking-tight font-medium text-gray-900 text-center">About Moroni's Quest</h2>
 		
@@ -34,6 +36,9 @@
 		<p>Youth will watch and participate in reenactments of important scenes from the Book of Mormon. Follow-up discussions with tribe leaders will help us understand the scriptures better and apply them to our own lives and situations today.</p>
 		<p>Our faith and testimonies of the Book of Mormon and the Saviour will be strengthened as we experience the Book of Mormon in a brand-new way together.</p>
 		
+		<br />
+		<hr />
+		<h2 class="text-4xl sm:text-2xl md:text-4xl lg:text-4xl xl:text-4xl tracking-tight font-medium text-gray-900 text-center">Social Media</h2>		
 		<p>Follow us on:<br />
 		<a href="https://www.instagram.com/calgarynorthstakemoronisquest/">Instagram</a><br />
 		<a href="https://www.facebook.com/moronisquest/">Facebook</a>

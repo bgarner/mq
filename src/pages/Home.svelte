@@ -26,6 +26,12 @@
 		<br />
 		<hr />
 
+
+		<p>Learn the song <a href="/participants/believe">I Will Be What I Believe</a></p>
+
+		<br />
+		<hr />
+
 		<h2 class="text-4xl sm:text-2xl md:text-4xl lg:text-4xl xl:text-4xl tracking-tight font-medium text-gray-900 text-center">About Moroni's Quest</h2>
 		
 		<p class="text-center">

@@ -12,12 +12,17 @@
 	<Nav />
 
 	<div class="content">
-			<h2>I Will Be What I Believe</h2>
 
+			<ParticipantsNav />
+
+			<div class="float-left" style="width: 75%;">
+
+			<h1 class="text-4xl tracking-tight font-bold text-gray-900 sm:text-4xl md:text-4xl lg:text-4xl xl:text-4xl text-center pb-10">I Will Be What I Believe</h1>
+			
 			<p>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/5yXiV8SEXqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</p>
-			
+
 			<p>
 			Living in this world with change all around<br />
 			But with the prophets' words, I'll stand on solid ground<br />
@@ -59,6 +64,9 @@
 			I will plead with my Father on my knees, I will be what I believe<br />
 			I will be what I believe
 			</p>
+			</div>
+
+			<br style="clear: both;" />
 	</div>
 </div>
 

@@ -81,6 +81,27 @@
 			<br />
 			<hr />		
 
+			<p>Mosiah Chapter 5 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng">Read Online</a></p>
+			<p>Mosiah Chapter 6 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/6?lang=eng">Read Online</a></p>
+			
+			<p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/fZHzsOd_jUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</p>
+			
+			<br />
+			<hr />
+
+			<p>Mosiah Chapter 10 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/10?lang=eng">Read Online</a></p>
+			<p>Mosiah Chapter 11 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=eng">Read Online</a></p>
+			<p>Mosiah Chapter 12 - <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=eng">Read Online</a></p>
+			
+			<p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/DquMLCdVUpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</p>
+			
+			<br />
+			<hr />								
+
 		</div>
 
 		<br style="clear: both;" />

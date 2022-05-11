@@ -10,6 +10,7 @@
 	import PackingList from './pages/PackingList.svelte';
 	import Clothing from './pages/Clothing.svelte';
 	import ComeReadWithUs from './pages/ComeReadWithUs.svelte';
+	import Believe from './pages/Believe.svelte';
 
 </script>
 
@@ -20,6 +21,7 @@
 	<Route path="/participants/packing" component="{PackingList}" />
 	<Route path="/participants/clothing" component="{Clothing}" />
 	<Route path="/participants/comereadwithus" component="{ComeReadWithUs}" />
+	<Route path="/participants/believe" component="{Believe}" />
 	<NotFound>
 	  <h2>Sorry. Page not found.</h2>
 	  <p><a href="/">Return Home</a></p>

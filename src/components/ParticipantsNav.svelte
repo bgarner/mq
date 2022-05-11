@@ -7,6 +7,7 @@
 	<a href="/participants/clothing" class="text-gray-800">Clothing</a>
 	<a href="/participants/packing" class="text-gray-800">Packing List</a>
 	<a href="/participants/comereadwithus" class="text-gray-800">Come Read With Us</a>
+	<a href="/participants/believe" class="text-gray-800">I Will Be What I Believe</a>
 </div>
 
 

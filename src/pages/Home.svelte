@@ -19,6 +19,10 @@
 		<h2 class="text-4xl sm:text-2xl md:text-4xl lg:text-4xl xl:text-4xl tracking-tight font-medium text-gray-900 text-center">What's New</h2>
 
 		<p><img src="/images/fashion.jpg" alt="Fashion Show" /></p>
+		<h2 class="text-4xl sm:text-2xl md:text-4xl lg:text-4xl xl:text-4xl tracking-tight font-medium text-gray-900 text-center">Moroni's Quest Fashion Show</h2>
+		<h3 class="text-3xl sm:text-2xl md:text-3xl lg:text-2xl xl:text-3xl tracking-tight font-medium text-gray-900 text-center">Sunday June 5 - 4:00PM<br />
+			North Stake Center
+		</h3>
 		<br />
 		<hr />
 		<p><a href="/participants/comereadwithus">Come Read With Us!</a> - Join us as we read the Book of Mormon together before Moroni's Quest. Check back soon, or <a href="https://www.instagram.com/calgarynorthstakemoronisquest/">follow us on Instagram</a>, as we update where we are in our reading.</p>

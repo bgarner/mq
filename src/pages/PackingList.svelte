@@ -42,7 +42,6 @@
 					<li>Bug Spray</li>
 					<li>Lip Balm</li>
 					<li>Sunscreen</li>
-					<li>Camera (not a cellphone)</li>
 					<li>Satchel</li>
 					<li>Water Bottle</li>
 					<li>2 Sets of <a href="/participants/clothing">Quest Clothing</a></li>

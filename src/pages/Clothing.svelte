@@ -57,15 +57,6 @@
 				<li>This style of tunic does require some kind of belt to keep the fabric closed around your waist.  You may use tie a strip of fabric around your waist or you may use a belt.</li>
 			</ol>
 
-			<h1 class="text-xl tracking-tight font-bold text-gray-900 sm:text-xl md:text-xl lg:text-xl xl:text-xl pt-4">Additional Resources:</h1>
-
-
-			<p><strong>Nephite Fashion Guide for Boys</strong></p>
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/YKTf1EJ5M5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-			<p><strong>Nephite Fashion Guide for Girls</strong></p>
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/WWu8GJuR_2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 		</div>
 
